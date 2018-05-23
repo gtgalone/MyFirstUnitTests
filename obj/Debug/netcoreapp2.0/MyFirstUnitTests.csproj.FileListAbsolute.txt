@@ -1,0 +1,14 @@
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.deps.json
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.runtimeconfig.json
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.runtimeconfig.dev.json
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.dll
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/bin/Debug/netcoreapp2.0/MyFirstUnitTests.pdb
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.csprojAssemblyReference.cache
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.csproj.CoreCompileInputs.cache
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.AssemblyInfoInputs.cache
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.AssemblyInfo.cs
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.dll
+/Users/gtgalone/Documents/Projects/MyFirstUnitTests/obj/Debug/netcoreapp2.0/MyFirstUnitTests.pdb
