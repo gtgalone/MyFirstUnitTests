@@ -9,4 +9,4 @@ install:
 - dotnet restore
 script:
 - dotnet build
-- dotnet test 아까생성하신 프로젝트 이름.csproj
+- dotnet test MyFirstUnitTests.csproj
